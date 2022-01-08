@@ -1,0 +1,97 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
+body{
+    font-family: 'Poppins', sans-serif;
+}
+.hero-img{
+    background-color: #E0E9F0;
+}
+
+ h1{color: #1D1D1D;}
+ p{
+    color: #898989;
+}
+
+h3{
+    font-size: 1.2em;
+    margin-top: 25px;
+}
+.download-cv{background-color: #5467FF;
+color: #fff;
+border-radius: 10px;
+padding: 7px 15px;
+text-transform: uppercase;
+font-weight: 700;}
+.download-cv:hover{
+    color:#fff;
+}
+.ido-icon{padding: 15px;
+    border-radius: 50%;
+    background-color: #ECF0FB;
+    color: #5467FF;
+    width: 100px;
+    height: 100px;
+    }
+
+.singel-resone .icon-resone{padding: 15px;
+border-radius: 50%;
+background-color: #ECF0FB;
+color: #5467FF;
+width: 100px;
+height: 65px;
+}
+.ido-card , .singel-resone{border-radius: 15px;}
+.stats {
+    background-image: url(images/bg.png);
+    background-color: #F6F7FB;
+}
+.navbar-brand img {width: 80px;}
+.stats-gol{
+    width: 200px;
+    height: 200px;
+    background-color: #F6F7FB;
+    border-radius: 50%;
+    border: 10px solid #5467FF;
+    text-align: center;
+    padding: 20px;
+    transition: .5s border ;
+
+}
+.stats-gol:hover p , .stats-gol:hover h1{
+    color: #fff;
+    font-weight: 700;
+}
+.stats-gol:hover{
+    background-color: #5467FF;
+    padding: 25px;
+    border: 20px solid #BFCAFF;
+}
+.singel-resone-text h1{
+    padding-top: 20px;
+}
+.singel-resone{
+    margin: 30px 0px;
+}
+ 
+.head-menu{
+ 
+    margin: 0 auto ;
+    margin-bottom: -100px;
+}
+.brands{
+    background-color: #F6F7FB;
+}
+.brands img{ width: 150px; 
+height: 30px;}
+.email-area h1{
+    color: #4E63FF;
+    margin: 0;
+    padding: 0;
+}
+.email-area p {
+margin: 0;
+padding: 0;
+}
+.works img{
+    width: 200px;
+    margin: 10px;
+}
